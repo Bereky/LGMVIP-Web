@@ -1,1 +1,1 @@
-# LGMVIP-Web
+# LGM Internship Tasks
